@@ -1,4 +1,3 @@
 cameraResolution
 ================
-
-sample to change camera resolution for mac os x
+Mac os x sample for custom camera resolution
